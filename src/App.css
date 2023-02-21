@@ -39,7 +39,7 @@
   background-color: #fff;
   border-radius: 5px;
   margin-bottom: 2em;
-  height: 65vh;
+  min-height: 65vh;
 }
 
 .button1 {
@@ -70,9 +70,9 @@
   flex-wrap: wrap;
 }
 
-.reponses>h3 {
+.reponses>p {
   cursor: pointer;
-  margin: 2em auto;
+  margin: 1em auto;
   width: 45%;
   padding: 9px 15px;
   border-radius: 5px;

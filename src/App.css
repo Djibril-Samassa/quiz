@@ -1,38 +1,110 @@
+@font-face {
+  font-family: "Poppins";
+  src: url("../public/Poppins/Poppins-Regular.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .App {
+  min-height: 95vh;
+  padding: 2em;
+  background-color: rgb(234, 197, 78);
+  font-family: 'Poppins';
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.liens {
+  width: fit-content;
+  margin: 0 auto;
+  padding: 2em;
+  border-radius: 5px;
+  background-color: rgb(54, 52, 52);
+  color: rgb(235, 230, 230);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.liens>nav>li>a {
+  color: rgb(235, 230, 230);
+  text-decoration: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.liens>nav>li>a:hover {
+  color: rgb(188, 216, 246);
+}
+
+.jeu {
+  padding: 2em;
+  background-color: #fff;
+  border-radius: 5px;
+  margin-bottom: 2em;
+  height: 65vh;
+}
+
+.button1 {
+  padding: 9px 15px;
+  border-radius: 5px;
+  background-color: rgb(234, 197, 78);
+  width: fit-content;
+  margin: 2em auto;
+}
+
+.button1:hover {
+  border: 2px solid rgb(234, 197, 78);
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.questions {
+  margin-top: 5em;
+}
+
+.question {
+  margin-bottom: 3em;
+}
+
+.reponses {
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.reponses>h3 {
+  cursor: pointer;
+  margin: 2em auto;
+  width: 45%;
+  padding: 9px 15px;
+  border-radius: 5px;
+  border: 5px solid rgb(234, 197, 78);
+}
+
+.selected {
+  background-color: rgb(234, 197, 78);
+  color: #fff;
+}
+
+.okay {
+  background-color: rgb(35, 210, 88);
+  color: #fff;
+}
+
+.not {
+  background-color: rgb(216, 57, 57);
+  color: #fff;
+}
+
+.hovering:hover{
+  background-color: rgb(234, 197, 78);
+  color: #fff;
+}
+
+.recommencer{
+  padding: 2em;
+  background-color: #fff;
+  border-radius: 5px;
+  margin: 2em auto 2em;
+  display: flex;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  flex-direction: column;
 }

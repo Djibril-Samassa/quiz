@@ -1,0 +1,84 @@
+{
+    "questions": [
+        {
+            "question": "Quel ministère est couramment appelé “Bercy” ?",
+            "reponse1": "Minitère des Affaires Etrangères",
+            "reponse2": "Ministère de l'Education Nationale",
+            "reponse3": "Ministère de l'Armée",
+            "reponse4": "Ministère de l'Economie et des Finances",
+            "bonneReponse": "Ministère de l'Economie et des Finances"
+        },
+        {
+            "question": "Quel est le nom complet de cette fable de Jean de La Fontaine : 'La Cigale et la ___' ?",
+            "reponse1": "Tortue",
+            "reponse2": "Fourmi",
+            "reponse3": "Fermière",
+            "reponse4": "Vache",
+            "bonneReponse": "Fourmi"
+        },
+        {
+            "question": "En langage familier, comment est qualifié un remède vendu par un charlatan ?",
+            "reponse1": "De la poudre d'Escampette",
+            "reponse2": "Des feuilles de Lotus",
+            "reponse3": "Des algues séchées",
+            "reponse4": "De la poudre de perlimpinpin",
+            "bonneReponse": "De la poudre de perlimpinpin"
+        },
+        {
+            "question": "Comment appelle-t-on les habitants de la principauté de Monaco ?",
+            "reponse1": "Les Monacois",
+            "reponse2": "Les Monégots",
+            "reponse3": "Les Monégasques",
+            "reponse4": "Les Monégains",
+            "bonneReponse": "Les Monégasques"
+        },
+        {
+            "question": "Dans quelle saga cinématographique Keanu Reeves incarne-t-il Neo ?",
+            "reponse1": "Avatar",
+            "reponse2": "Matrix",
+            "reponse3": "Blade Runner",
+            "reponse4": "John Wick",
+            "bonneReponse": "Matrix"
+        },
+        {
+            "question": "Quel président des États-Unis a été assassiné à Dallas, en 1963 ?",
+            "reponse1": "John Fitzgerald Kennedy",
+            "reponse2": "Abraham Lincoln",
+            "reponse3": "Jim Carter",
+            "reponse4": "George W.Bush",
+            "bonneReponse": "John Fitzgerald Kennedy"
+        },
+        {
+            "question": "Quelle est la capitale de l’Algérie ?",
+            "reponse1": "Oran",
+            "reponse2": "Rabat",
+            "reponse3": "Dakar",
+            "reponse4": "Alger",
+            "bonneReponse": "Alger"
+        },
+        {
+            "question": "En France métropolitaine, quel est le mois le plus froid de l’hiver ?",
+            "reponse1": "Décembre",
+            "reponse2": "Janvier",
+            "reponse3": "Novembre",
+            "reponse4": "Février",
+            "bonneReponse": "Janvier"
+        },
+        {
+            "question": "Quel est le nom des dents sur le devant de la denture humaine ?",
+            "reponse1": "Les molaires",
+            "reponse2": "Les prémolaires",
+            "reponse3": "Les incisives",
+            "reponse4": "Les canines",
+            "bonneReponse": "Les incisives"
+        },
+        {
+            "question": "De quelle couleur est l’encre de Chine ?",
+            "reponse1": "Rouge",
+            "reponse2": "Blanc",
+            "reponse3": "Bleue",
+            "reponse4": "Noire",
+            "bonneReponse": "Noire"
+        }
+    ]
+}
